@@ -1,0 +1,14 @@
+{
+    "name": "orion-entity-spawner",
+    "version": "0.1.0",
+    "displayName": "Orion Entity Spawner",
+    "description": "このパッケージには、PLATEAUの3D都市モデルデータを利用するためのAPI、サンプルが含まれます。PLATEAU SDK for Unityを利用することで、実世界を舞台にしたゲームの開発や、PLATEAUの豊富なデータを活用したシミュレーションを簡単に行うことができます。",
+    "description": "このパッケージは、Orionサーバ上のEntityを、PLATEAUの3D都市上にSpawnすることができます。",
+    "unity": "2022.3",
+    "dependencies": {
+        "com.synesthesias.plateau-unity-sdk" : "1.1.6"
+    },
+    "author": {
+        "name": "Shimpei Takashima"
+    }
+}
